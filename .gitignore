@@ -4,5 +4,5 @@ bin/
 .*
 !.gitignore
 *.log
-db.properties
+*db.properties
 
